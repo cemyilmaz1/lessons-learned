@@ -1,0 +1,3 @@
++Documentation is very important in software development, especially as the size of the dev team, number of pages and issues worked on increases
++For everyone to work efficiently (e.g., catch mistakes, make changes) and not duplicate work, developers need to document well.
++Documentation does not have to be long as to make the developer lose time on pure documentation, but it should be detailed and clear enough as to make sure it is useful for someone who goes back to look for certain information.
